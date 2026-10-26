@@ -6,3 +6,4 @@ A curated list of free stuff for open source maintainers. Most of these products
 - 1Password https://github.com/1password/1password-teams-open-source
 - Browserstack https://www.browserstack.com/open-source?ref=footer
 - Cypress Dashboard https://docs.cypress.io/guides/dashboard/organizations#Open-Source-Plan
+- UptimeRobot https://uptimerobot.com/sponsorship/
